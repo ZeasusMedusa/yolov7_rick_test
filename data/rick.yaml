@@ -1,0 +1,4 @@
+train: data/data_rick/train/images/
+val: data/data_rick/val/images/
+nc: 1
+names: ['rick']
